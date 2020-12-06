@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: #F9B205;
+}
+
+.sidepages{
+    background-color: #F9B205;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    position: absolute;
+    border: none;
+    width: 261px;
+    height: 601px;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -522px;
+}
+
+.pages{
+    background: none;
+    background-color: white;
+    border-radius: 20px;
+    position: absolute;
+    border: none;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.452);
+    align-content: center;
+    width: 1044px;
+    height: 601px;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -522px;
+}
+
+.nav{
+    margin-left: 450px;
+    margin-right: -450px;
+    margin-top: 30px;
+}
+
+.nav .navclick{
+    margin-left: 40px;
+}
+
+.nav .aboutnav{
+    background-color: #CCCCCC;
+    background-position: center;
+    border-radius: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 32px;
+}
+
+
+.nav .navclick .navtulisan{
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    background-color: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 6px;
+    border-radius: 20px;
+}
+
+.namaateh{
+    margin-left: 500px;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.deskripsiateh h2{
+    margin-left: 500px;
+    margin-right: -500px;
+    margin-top: 160px;
+    font-size: 19;
+    font-weight: 100;
+    opacity: 100;
+    position: absolute;
+}
+
+.photoaboutbw{
+    width: 350;
+    position: absolute;
+    z-index: 100;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+.photoaboutcolour{
+    width: 350;
+    position: absolute;
+    opacity: 0;
+    z-index: 100;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+.photoaboutcolour:hover{
+    opacity: 100;
+    transition: opacity .3s linear;
+    cursor: pointer;
+
+}
+
+
