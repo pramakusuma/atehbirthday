@@ -3,6 +3,6 @@ better with Chrome.
 
 📱mobile version soon
 
-✨https://pramakusuma.github.io/atehbirthday/ 
+✨https://atehbirthday.tech/ 
 
 ❗️thank you❗️
